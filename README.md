@@ -8,4 +8,4 @@ We analyze real-time footage from CCTV surveillance systems to address the probl
 Person Detection & Gender Classification: Identifies individuals and determines their gender in real-time.
 Gender Distribution: Counts the number of men and women in the scene.
 
-
+**Note** - This is the first version of our analytics system
